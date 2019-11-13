@@ -1,5 +1,5 @@
 module github.com/vaind/versioning-test/consumer
 
-require github.com/vaind/versioning-test/lib v1.0.0
+go 1.13
 
-go 1.11
+require github.com/vaind/versioning-test v1.0.0
