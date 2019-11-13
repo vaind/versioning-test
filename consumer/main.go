@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	lib "github.com/vaind/versioning-test/v2"
+	lib "github.com/vaind/versioning-test"
 )
 
 func main() {
